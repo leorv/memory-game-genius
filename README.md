@@ -4,6 +4,8 @@ Este é um jogo da memória estilo *Genius*, inspirado no clássico brinquedo el
 
 O objetivo do jogador é memorizar e repetir corretamente a sequência de cores e sons, que aumenta de dificuldade conforme o progresso.
 
+[Tela](tela.png)
+
 ## 🎮 Tecnologias Utilizadas
 
 - HTML5
@@ -13,9 +15,8 @@ O objetivo do jogador é memorizar e repetir corretamente a sequência de cores 
 ## 🧩 Funcionalidades
 
 - Interface visual semelhante ao Genius original
-- Reprodução de sons e animações nas cores
+- Reprodução de animações nas cores
 - Aumento progressivo da dificuldade
-- Feedback visual para acertos e erros
 - Reinício automático após falhas
 
 ## 🎯 Objetivo
