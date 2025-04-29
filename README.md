@@ -1,14 +1,27 @@
-# Desafio DIO - Jogo Genius
+# 🧠 Memory Game – Genius
 
-##
+Este é um jogo da memória estilo *Genius*, inspirado no clássico brinquedo eletrônico com o tema de Yu Yu Hakusho.
 
-### Alterações que fiz
+O objetivo do jogador é memorizar e repetir corretamente a sequência de cores e sons, que aumenta de dificuldade conforme o progresso.
 
-- Corrigi um bug que a instrutora, em vídeo aula, deixou passar, que as luzes não se apagavam. Agora funciona normalmente.
-- Inseri o tema de um anime que gosto muito, o Yu Yu Hakusho.
+## 🎮 Tecnologias Utilizadas
 
-### Detalhes notáveis do desafio
+- HTML5
+- CSS3
+- JavaScript (puro)
 
-- A interação do arquivo Js com o Html, onde podemos pegar os elementos html e trabalhar com eles.
-- Gerarmos várias funções, cada uma com sua responsabilidade.
-- Gerar formas e inserir imagens com o CSS ao ponto de criarmos um jogo simples.
+## 🧩 Funcionalidades
+
+- Interface visual semelhante ao Genius original
+- Reprodução de sons e animações nas cores
+- Aumento progressivo da dificuldade
+- Feedback visual para acertos e erros
+- Reinício automático após falhas
+
+## 🎯 Objetivo
+
+Praticar e demonstrar habilidades com JavaScript puro, lógica de programação e manipulação do DOM por meio de um projeto divertido e nostálgico.
+
+---
+
+Desenvolvido por Leonardo Ruoso Vendramini • [leorv](https://github.com/leorv)
